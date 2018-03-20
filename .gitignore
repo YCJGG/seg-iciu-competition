@@ -1,0 +1,9 @@
+*.png
+*.jpg
+model.ckpt*
+burning.*
+deeplab_resnet_init.ckpt
+*.pyc
+final_new
+*.txt
+*.ckpt
